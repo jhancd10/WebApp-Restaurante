@@ -1,0 +1,61 @@
+<h1>Estadisticas</h1>
+
+<h3>Consultar ventas por cada Mesero</h3>
+
+<form class="form-horizontal" novalidate
+      (ngSubmit)="consultarVentasMeseros()" [formGroup]="formGroup">
+  <fieldset>
+
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup.get('fechaVentasMeseros').touched || formGroup.get('fechaVentasMeseros').dirty) && !formGroup.get('fechaVentasMeseros').valid }">
+      <label class="col-md-2 control-label"
+             for="fechaVentasMeseros">Fecha de Consulta</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="fechaVentasMeseros"
+               type="date"
+               required
+               formControlName="fechaVentasMeseros" />
+        <span class="help-block" *ngIf="(formGroup.get('fechaVentasMeseros').touched || formGroup.get('fechaVentasMeseros').dirty) && formGroup.get('fechaVentasMeseros').errors">
+          <span *ngIf="formGroup.get('fechaVentasMeseros').errors.required">
+            El campo es requerido para la consulta.
+          </span>
+        </span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="col-md-4 col-md-offset-2">
+        <span>
+          <button class="btn btn-primary"
+                  type="submit"
+                  [disabled]="!formGroup.valid">
+            Consultar
+          </button>
+        </span>
+      </div>
+    </div>
+  </fieldset>
+</form>
+
+<p *ngIf="!ventas"><em></em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="ventas">
+  <thead>
+    <tr>
+      <th>Identificacion</th>
+      <th>Nombres</th>
+      <th>Apellidos</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let venta of ventas">
+      <td> {{ venta.idMesero }}</td>
+      <td> {{ venta.nombres }}</td>
+      <td> {{ venta.apellidos }}</td>
+      <td> {{ venta.total }}</td>
+    </tr>
+  </tbody>
+</table>
