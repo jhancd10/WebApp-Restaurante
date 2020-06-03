@@ -1,0 +1,8 @@
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\bin\Release\clsdatosctr.dll
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\bin\Release\clsdatosctr.pdb
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Release\clsdatosctr.csproj.CoreCompileInputs.cache
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Release\clsdatosctr.csproj.CopyComplete
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Release\clsdatosctr.dll
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Release\clsdatosctr.pdb
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\bin\Release\clsdatosctr.dll.config
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\bin\Release\Oracle.ManagedDataAccess.dll

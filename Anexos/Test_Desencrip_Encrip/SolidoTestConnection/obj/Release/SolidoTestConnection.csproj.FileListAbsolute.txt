@@ -1,0 +1,77 @@
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.pdb
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoNiifBaGenerator.Domain.dll
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoNiifBaGenerator.Utilities.dll
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Release\Solido.Utilies.dll
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.FormTestConnection.resources
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.Properties.Resources.resources
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.GenerateResource.Cache
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.pdb
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\bin\Release\Solido.Utilies.dll
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.FormTestConnection.resources
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.Properties.Resources.resources
+C:\PROYECTOS\SOLIDONIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.GenerateResource.Cache
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.FormTestConnection.resources
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.Properties.Resources.resources
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.GenerateResource.Cache
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.pdb
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\bin\Release\EncryptDecryptAES.dll
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoNiifBaGenerator.Domain.dll
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\bin\Release\EncryptDecryptAES.pdb
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoNiifBaGenerator.Domain.pdb
+C:\Users\CLAUDIA\Desktop\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csprojResolveAssemblyReference.cache
+D:\SVN_YAA\PROYECTOS\Proyecto Asignación Casos\EncriptarNIIF\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+D:\SVN_YAA\PROYECTOS\Proyecto Asignación Casos\EncriptarNIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+D:\SVN_YAA\PROYECTOS\Proyecto Asignación Casos\EncriptarNIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+\\DIROPERACIONES\EncriptarNIIF\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+\\DIROPERACIONES\EncriptarNIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+\\DIROPERACIONES\EncriptarNIIF\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.pdb
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.FormTestConnection.resources
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.Properties.Resources.resources
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.GenerateResource.Cache
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\DESARROLLO\Desktop\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csprojResolveAssemblyReference.cache
+D:\SVN\PROYECTOS\CESCA\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+D:\SVN\PROYECTOS\CESCA\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+D:\SVN\PROYECTOS\CESCA\Encrp_Desencrp\SolidoTestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.pdb
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.FormTestConnection.resources
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.Properties.Resources.resources
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.GenerateResource.cache
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.CoreCompileInputs.cache
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.CopyComplete
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\Encrp_Desencrp\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csprojAssemblyReference.cache
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.FormTestConnection.resources
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.Properties.Resources.resources
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.GenerateResource.cache
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.CoreCompileInputs.cache
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.exe
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.pdb
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe.config
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.exe
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\bin\Release\SolidoTestConnection.pdb
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\CAPA DE DATOS\TestConnection\SolidoTestConnection\obj\Release\SolidoTestConnection.csproj.CopyComplete

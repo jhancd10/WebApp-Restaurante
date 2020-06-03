@@ -1,0 +1,9 @@
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\bin\ComidasDelSur_WS.dll.config
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\bin\ComidasDelSur_WS.dll
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\bin\ComidasDelSur_WS.pdb
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\obj\Debug\ComidasDelSur_WS.csproj.CoreCompileInputs.cache
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\obj\Debug\ComidasDelSur_WS.dll
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\obj\Debug\ComidasDelSur_WS.pdb
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\obj\Debug\ComidasDelSur_WS.csproj.CopyComplete
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\bin\clsdatosctr.dll
+C:\Users\Jhan Carlos\Desktop\QUALITA CORP\Desarrollo\RestauranteWS\ComidasDelSur_WS\bin\Oracle.ManagedDataAccess.dll

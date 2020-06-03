@@ -1,0 +1,7 @@
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\bin\Debug\clsdatosctr.dll
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\bin\Debug\clsdatosctr.pdb
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Debug\clsdatosctr.csproj.CoreCompileInputs.cache
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Debug\clsdatosctr.csproj.CopyComplete
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Debug\clsdatosctr.dll
+C:\Users\Jhan Carlos\Desktop\clsdatosctr\obj\Debug\clsdatosctr.pdb

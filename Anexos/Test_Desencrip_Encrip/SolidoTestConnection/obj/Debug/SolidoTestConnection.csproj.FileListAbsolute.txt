@@ -1,0 +1,12 @@
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Debug\SolidoTestConnection.exe.config
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Debug\SolidoTestConnection.exe
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Debug\SolidoTestConnection.pdb
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Debug\SolidoTestConnection.csprojResolveAssemblyReference.cache
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Debug\SolidoTestConnection.FormTestConnection.resources
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Debug\SolidoTestConnection.Properties.Resources.resources
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Debug\SolidoTestConnection.csproj.GenerateResource.Cache
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Debug\SolidoTestConnection.exe
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\obj\Debug\SolidoTestConnection.pdb
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Debug\SolidoNiifBaGenerator.Domain.dll
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Debug\SolidoNiifBaGenerator.Utilities.dll
+C:\PROYECTOS\SOLIDO NIIF BAGENERATOR\SolidoTestConnection\SolidoTestConnection\bin\Debug\Solido.Utilies.dll

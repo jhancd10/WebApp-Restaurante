@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema id="SolidoConnectCenter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsd="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xs:element name="appConfiguration">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Database">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sQLSource">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ServerName" type="xs:string" />
+                    <xs:element name="DatabaseName" type="xs:string" />
+                    <xs:element name="User" type="xs:string" />
+                    <xs:element name="Password" type="xs:string" />
+                    <xs:element name="ConnectionTimeout" type="xs:string" />
+                    <xs:element name="CommandTimeout" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="OracleSource">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ServerName" type="xs:string" />
+                    <xs:element name="DatabaseName" type="xs:string" />
+                    <xs:element name="User" type="xs:string" />
+                    <xs:element name="Password" type="xs:string" />
+                    <xs:element name="ConnectionTimeout" type="xs:string" />
+                    <xs:element name="CommandTimeout" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="sQLSolidoNIIF">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ServerName" type="xs:string" />
+                    <xs:element name="DatabaseName" type="xs:string" />
+                    <xs:element name="User" type="xs:string" />
+                    <xs:element name="Password" type="xs:string" />
+                    <xs:element name="ConnectionTimeout" type="xs:string" />
+                    <xs:element name="CommandTimeout" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="OracleSolidoNIIF">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ServerName" type="xs:string" />
+                    <xs:element name="DatabaseName" type="xs:string" />
+                    <xs:element name="User" type="xs:string" />
+                    <xs:element name="Password" type="xs:string" />
+                    <xs:element name="ConnectionTimeout" type="xs:string" />
+                    <xs:element name="CommandTimeout" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xsd:schema>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<appConfiguration>
+  <Database>
+    <DatabaseConnection>
+      <ServerName>LXr+wBEtBoEgtx3fp+ILi3HQ2NIZ+Vwe0o0ITfwWyik=</ServerName>
+      <DatabaseName>sh49j4cGTSmj7YslzLdyKA==</DatabaseName>
+      <User>1eOLnf5DkWs4FHSCPGtobQ==</User>
+      <Password>Hf+Arqgkk1HcDYKBe/4bEAQgEQxMdTafZZ5R3J/TAbs=</Password>
+      <ConnectionTimeout>FkQkQ7+eK9iEZILmX8j9GQ==</ConnectionTimeout>
+      <CommandTimeout>FkQkQ7+eK9iEZILmX8j9GQ==</CommandTimeout>
+      <DatabaseType>18SO1dwF/QGWwXSDxAOK5xFltaYe0iqIDfUh17G++Co=</DatabaseType>
+    </DatabaseConnection>
+  </Database>
+</appConfiguration>
