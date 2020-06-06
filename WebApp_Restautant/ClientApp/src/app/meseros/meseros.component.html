@@ -1,0 +1,31 @@
+<h1>Meseros</h1>
+
+<p><button [routerLink]='["/meseros-agregar"]' class="btn btn-primary">Agregar Mesero</button></p>
+
+<p *ngIf="!meseros"><em>Cargando...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="meseros">
+  <thead>
+    <tr>
+      <th>Identificacion</th>
+      <th>Nombres</th>
+      <th>Apellidos</th>
+      <th>Edad</th>
+      <th>Antiguedad</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let mesero of meseros">
+      <td> {{ mesero.idMesero }}</td>
+      <td> {{ mesero.nombres }}</td>
+      <td> {{ mesero.apellidos }}</td>
+      <td> {{ mesero.edad }}</td>
+      <td> {{ mesero.antiguedad }} Meses</td>
+      <td>
+        <button class="btn btn-primary" [routerLink]='["/meseros-editar/" + mesero.idMesero]' style="margin: 5px">Editar</button>
+        <button class="btn btn-danger" [routerLink]='["/meseros-eliminar/" + mesero.idMesero]' style="margin: 5px">Eliminar</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

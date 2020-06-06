@@ -1,0 +1,201 @@
+<h1>Estadisticas</h1>
+
+<h3>Consultar ventas por cada Mesero</h3>
+
+<form class="form-horizontal" novalidate
+      (ngSubmit)="consultarVentasMeseros()" [formGroup]="formGroup">
+  <fieldset>
+
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup.get('fechaVentasMeseros').touched || formGroup.get('fechaVentasMeseros').dirty) && !formGroup.get('fechaVentasMeseros').valid }">
+      <label class="col-md-2 control-label"
+             for="fechaVentasMeseros">Fecha de Consulta</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="fechaVentasMeseros"
+               type="date"
+               required
+               formControlName="fechaVentasMeseros" />
+        <span class="help-block" *ngIf="(formGroup.get('fechaVentasMeseros').touched || formGroup.get('fechaVentasMeseros').dirty) && formGroup.get('fechaVentasMeseros').errors">
+          <span *ngIf="formGroup.get('fechaVentasMeseros').errors.required">
+            El campo es requerido para la consulta.
+          </span>
+        </span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="col-md-4 col-md-offset-2">
+        <span>
+          <button class="btn btn-primary"
+                  type="submit"
+                  [disabled]="!formGroup.valid">
+            Consultar
+          </button>
+        </span>
+      </div>
+    </div>
+  </fieldset>
+</form>
+
+<p *ngIf="!ventas"><em></em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="ventas">
+  <thead>
+    <tr>
+      <th>Identificacion</th>
+      <th>Nombres</th>
+      <th>Apellidos</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let venta of ventas">
+      <td> {{ venta.idMesero }}</td>
+      <td> {{ venta.nombres }}</td>
+      <td> {{ venta.apellidos }}</td>
+      <td> {{ venta.total }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Consultar Consumo de Clientes</h3>
+
+<form class="form-horizontal" novalidate
+      (ngSubmit)="consultarConsumoClientes()" [formGroup]="formGroup1">
+  <fieldset>
+
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup1.get('fecha').touched || formGroup1.get('fecha').dirty) && !formGroup1.get('fecha').valid }">
+      <label class="col-md-2 control-label"
+             for="fecha">Fecha de Consulta</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="fecha"
+               type="date"
+               required
+               formControlName="fecha" />
+        <span class="help-block" *ngIf="(formGroup1.get('fecha').touched || formGroup1.get('fecha').dirty) && formGroup1.get('fecha').errors">
+          <span *ngIf="formGroup1.get('fecha').errors.required">
+            El campo es requerido para la consulta.
+          </span>
+        </span>
+      </div>
+    </div>
+
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup1.get('valor').touched || formGroup1.get('valor').dirty) && !formGroup1.get('valor').valid }">
+      <label class="col-md-2 control-label"
+             for="valor">Valor de Consumo</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="valor"
+               type="text"
+               required
+               formControlName="valor" />
+        <span class="help-block" *ngIf="(formGroup1.get('valor').touched || formGroup1.get('valor').dirty) && formGroup1.get('valor').errors">
+          <span *ngIf="formGroup1.get('valor').errors.required">
+            El campo es requerido para la consulta.
+          </span>
+        </span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="col-md-4 col-md-offset-2">
+        <span>
+          <button class="btn btn-primary"
+                  type="submit"
+                  [disabled]="!formGroup1.valid">
+            Consultar
+          </button>
+        </span>
+      </div>
+    </div>
+  </fieldset>
+</form>
+
+<p *ngIf="!consumos"><em></em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="consumos">
+  <thead>
+    <tr>
+      <th>Identificacion</th>
+      <th>Nombres</th>
+      <th>Apellidos</th>
+      <th>Total Consumo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let consumo of consumos">
+      <td> {{ consumo.idCliente }}</td>
+      <td> {{ consumo.nombres }}</td>
+      <td> {{ consumo.apellidos }}</td>
+      <td> {{ consumo.valorConsumo }}</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h3>Consultar Producto mas Vendido</h3>
+
+<form class="form-horizontal" novalidate
+      (ngSubmit)="consultarProductosTop()" [formGroup]="formGroup2">
+  <fieldset>
+
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup2.get('fechaInicio').touched || formGroup2.get('fechaInicio').dirty) && !formGroup2.get('fechaInicio').valid }">
+      <label class="col-md-2 control-label"
+             for="fechaInicio">Fecha de Consulta</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="fechaInicio"
+               type="date"
+               required
+               formControlName="fechaInicio" />
+        <span class="help-block" *ngIf="(formGroup2.get('fechaInicio').touched || formGroup2.get('fechaInicio').dirty) && formGroup2.get('fechaInicio').errors">
+          <span *ngIf="formGroup2.get('fechaInicio').errors.required">
+            El campo es requerido para la consulta.
+          </span>
+        </span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="col-md-4 col-md-offset-2">
+        <span>
+          <button class="btn btn-primary"
+                  type="submit"
+                  [disabled]="!formGroup2.valid">
+            Consultar
+          </button>
+        </span>
+      </div>
+    </div>
+  </fieldset>
+</form>
+
+<p *ngIf="!productoTop"><em></em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="productoTop">
+  <thead>
+    <tr>
+      <th>Plato</th>
+      <th>Cantidad</th>
+      <th>Valor Total</th>
+      <th>Periodo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let producto of productoTop">
+      <td> {{ producto.plato }}</td>
+      <td> {{ producto.cantidad }}</td>
+      <td> {{ producto.valorTotal }}</td>
+      <td> {{ producto.periodo }}</td>
+    </tr>
+  </tbody>
+</table>
